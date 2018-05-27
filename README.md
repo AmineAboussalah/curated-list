@@ -1,5 +1,3 @@
-# Curated List of Related Works in Quantum Computation
-
 ## Persistent Homology
 
 1. [R. Dridi and H. Alghassi (2016). Homology computation of large point clouds using quantum annealing, arXiv. 2016.](https://arxiv.org/pdf/1512.09328.pdf)
